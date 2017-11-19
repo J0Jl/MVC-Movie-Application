@@ -1,0 +1,29 @@
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+c:\users\george\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+D:\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+D:\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+D:\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+D:\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+D:\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+D:\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+D:\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+D:\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+D:\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+G:\Past Course Work\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+G:\Past Course Work\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+G:\Past Course Work\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+G:\Past Course Work\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+G:\Past Course Work\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+G:\Past Course Work\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
